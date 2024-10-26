@@ -1,6 +1,8 @@
 # apakahLeaked
 
 A [haveibeenpwned](https://haveibeenpwned.com/) inspired to check if your E-KTP (Indonesian Electronic ID Card) has been compromised in any known data breaches. This tool helps users verify if their E-KTP information has appeared in public forums or data leak discussions.
+![Application Map](/docs/map.jpg)
+<sub>*Visualization of apakahLeak architecture*</sub>
 
 ## Prerequisites
 
