@@ -1,0 +1,2 @@
+email: notwira@lsw.ink
+password: youexpectedthiswouldbeadminandadminhuhyouexpectedthiswouldbeadminandadminhuh?
